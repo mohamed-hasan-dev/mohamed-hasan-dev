@@ -148,81 +148,339 @@ I believe great software is built through:
 # ⚡ Technology Universe
 
 
-## Backend Engineering
+<div align="center">
 
+
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+# 🚀 Backend Engineering
 
 </div>
 
+
+<table width="100%">
+
+
+<tr>
+
+
+<td align="center" width="33%">
+
+
+## 💻 Languages
+
+
+<img src="https://skillicons.dev/icons?i=cs,python" />
+
+
+<br><br>
 
 
 C#
-.NET
-ASP.NET Core
-Entity Framework Core
-LINQ
-REST APIs
-Dependency Injection
 
-
-
----
-
-
-## Database Engineering
-
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mssql" />
-
-</div>
-
-
-
-SQL Server
-Database Design
-ERD Modeling
-Relationships
-Query Optimization
-
-
-
----
-
-
-## Software Engineering
-
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,azure,linux,docker" />
-
-</div>
-
-
+Python
 
 Object Oriented Programming
 
-Data Structures & Algorithms
+Data Structures
 
-SOLID Principles
 
-Clean Architecture
+</td>
 
-Design Patterns
 
-System Design
 
+<td align="center" width="33%">
+
+
+## ⚙️ Frameworks
+
+
+<img src="https://skillicons.dev/icons?i=dotnet" />
+
+
+<br><br>
+
+
+.NET
+
+ASP.NET Core
+
+Entity Framework Core
+
+LINQ
+
+REST APIs
+
+
+</td>
+
+
+
+<td align="center" width="33%">
+
+
+## 🔌 Backend Concepts
+
+
+<img src="https://skillicons.dev/icons?i=postman" />
+
+
+<br><br>
+
+
+API Design
+
+Dependency Injection
+
+Business Logic
+
+Application Architecture
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+---
+
+<div align="center">
+
+
+---
+
+<div align="center">
+
+---
+
+<div align="center">
+
+# 🗄 Database Engineering
+
+</div>
+
+
+<table width="100%">
+
+
+<tr>
+
+
+<td align="center" width="25%">
+
+
+## 🛢 SQL
+
+
+<img src="https://skillicons.dev/icons?i=mssql"/>
+
+
+<br><br>
+
+
+SQL Server
+
+Database Queries
+
+Stored Procedures
+
+
+</td>
+
+
+
+<td align="center" width="25%">
+
+
+## 🧩 Modeling
+
+
+<br><br>
+
+
+ERD Design
+
+Database Structure
+
+Entity Relationships
+
+
+</td>
+
+
+
+<td align="center" width="25%">
+
+
+## ⚡ Performance
+
+
+<br><br>
+
+
+Query Optimization
+
+Indexing Concepts
+
+Efficient Data Access
+
+
+</td>
+
+
+
+<td align="center" width="25%">
+
+
+## 🔗 Integration
+
+
+<br><br>
+
+
+EF Core
+
+ORM Concepts
+
+Data Access Layer
+
+
+</td>
+
+
+</tr>
+
+
+</table>
 
 
 ---
 
 
+<div align="center">
+
+# 🏛 Software Engineering
+
+</div>
+
+
+<table width="100%">
+
+
+<tr>
+
+
+<td align="center" width="25%">
+
+
+## 🧱 Architecture
+
+
+Clean Architecture
+
+Layered Design
+
+Maintainable Systems
+
+
+</td>
+
+
+
+<td align="center" width="25%">
+
+
+## 🧠 Principles
+
+
+SOLID
+
+Clean Code
+
+Best Practices
+
+
+</td>
+
+
+
+<td align="center" width="25%">
+
+
+## 🎨 Patterns
+
+
+Design Patterns
+
+OOP
+
+Object Design
+
+
+</td>
+
+
+
+<td align="center" width="25%">
+
+
+## 📐 System Design
+
+
+Scalable Systems
+
+Engineering Decisions
+
+Future Growth
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+---
+
+<div align="center">
+
+
+## 🧰 Tools & Environment
+
+
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,azure,linux,docker"/>
+
+
+</div>
+
+
+
+
+---
+
+<div align="center">
+
 # 🏗 Featured Projects
+
+</div>
+
+
+<table width="100%">
+
+
+<tr>
+
+
+<td width="50%" valign="top">
 
 
 <div align="center">
@@ -234,36 +492,57 @@ System Design
 </div>
 
 
-Backend application designed around a real business domain.
+A backend management system designed around a real business domain.
 
 
-### Engineering Highlights
+### 🎯 Purpose
+
+Building a structured application that handles business operations, data relationships, and backend workflows.
 
 
+### 🧠 Engineering Highlights
 
 ✓ Business Logic Design
 
-✓ Database Modeling
+✓ Domain Modeling
 
-✓ Entity Framework Core
+✓ Entity Relationships
 
-✓ Application Architecture
+✓ Application Structure
 
-✓ Domain Understanding
+✓ Data Access Management
 
 
+### ⚙️ Stack
 
-Technology:
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mssql"/>
+
+</div>
+
 
 
 C#
 ASP.NET Core
 Entity Framework Core
 SQL Server
-
+LINQ
 
 
 ---
+
+
+<div align="center">
+
+
+
+
+</td>
+
+
+<td width="50%" valign="top">
 
 
 <div align="center">
@@ -275,123 +554,57 @@ SQL Server
 </div>
 
 
-Database-driven backend application focused on clean structure.
+A database-driven backend application focused on clean data structure and application organization.
+
+
+### 🎯 Purpose
+
+Practicing backend fundamentals through relational data modeling and application workflows.
+
+
+### 🧠 Engineering Highlights
+
+
 
 
 ### Engineering Highlights
 
-
-
 ✓ CRUD Operations
+
+✓ Database Modeling
 
 ✓ Entity Relationships
 
-✓ Data Modeling
-
 ✓ Backend Logic
 
-✓ Database Structure
-# 🗺️ Engineering Roadmap
+✓ Query Handling
+
+
+### ⚙️ Stack
 
 
 <div align="center">
 
-
-
-Backend Engineering
-│
-▼
-Advanced .NET Development
-│
-▼
-Clean Architecture
-│
-▼
-Design Patterns
-│
-▼
-System Design
-│
-▼
-Cloud Engineering
-│
-▼
-AI Application Development
-
-
+<img src="https://skillicons.dev/icons?i=cs,mssql,dotnet"/>
 
 </div>
 
 
----
 
-
-# 🌱 Currently Learning
-
-
-<div align="center">
-
-
-| Domain | Learning Path |
-|---|---|
-| ⚙️ Backend | Advanced ASP.NET Core, APIs, Security |
-| 🏛 Architecture | Clean Architecture, DDD, Design Patterns |
-| 📈 Performance | Optimization, Scalability, Best Practices |
-| ☁️ Cloud | Deployment, Cloud Infrastructure |
-| 🤖 AI | LLM Applications, Automation Systems |
-
-
-</div>
-
-
----
-
-
-# 🚀 Engineering Vision
-
-
-<div align="center">
+C#
+SQL Server
+Entity Framework Core
+ASP.NET Core
 
 
 
-Build Reliable Software
-
-    +
-
-Understand Complex Systems
-
-    +
-
-Solve Real Problems
-
-    +
-
-Create Valuable Products
+</td>
 
 
-
-</div>
-
-
-My long-term goal is becoming a Software Engineer capable of designing and building scalable, maintainable, and intelligent software systems.
+</tr>
 
 
----
-
-
-# 📊 Engineering Dashboard
-
-
-<div align="center">
-
-
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-hasan-dev&theme=tokyonight&hide_border=true"
-width="75%"
-/>
-
-
-</div>
+</table>
 
 
 <br>
@@ -400,7 +613,10 @@ width="75%"
 <div align="center">
 
 
-## ⚡ Engineering Focus
+# 🚀 Future Engineering Projects
+
+
+</div>
 
 
 <table width="100%">
@@ -408,52 +624,181 @@ width="75%"
 
 <tr>
 
-<td align="center" width="33%">
+
+<td align="center">
 
 
-### ⚙️ Backend Engineering
+## 🏛 Architecture Projects
 
-.NET Ecosystem
-
-ASP.NET Core
-
-REST APIs
-
-Entity Framework Core
-
-
-</td>
-
-
-<td align="center" width="33%">
-
-
-### 🏗 Software Design
 
 Clean Architecture
 
-SOLID Principles
+Enterprise Applications
 
-Design Patterns
-
-System Design
+Scalable Backend Systems
 
 
 </td>
 
 
-<td align="center" width="33%">
+
+<td align="center">
 
 
-### 🤖 Future Direction
+## 🤖 AI Projects
+
 
 AI Applications
 
+LLM Integrations
+
+Automation Systems
+
+
+</td>
+
+
+
+<td align="center">
+
+
+## ☁️ Cloud Projects
+
+
+Deployment
+
+Cloud Infrastructure
+
+Distributed Systems
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+---
+---
+
+<div align="center">
+
+# 🗺️ Engineering Roadmap
+
+</div>
+
+
+<div align="center">
+
+
+<table width="100%">
+
+
+<tr>
+
+<td align="center">
+
+### 01
+
+## ⚙️ Backend Engineering
+
+.NET  
+ASP.NET Core  
+APIs  
+Business Logic
+
+
+</td>
+
+
+<td align="center">
+
+### 02
+
+## 🏗 Software Architecture
+
+Clean Architecture
+
+SOLID
+
+Design Patterns
+
+
+</td>
+
+
+<td align="center">
+
+### 03
+
+## 📐 System Design
+
+Scalable Systems
+
+Distributed Thinking
+
+Engineering Decisions
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+<br>
+
+
+⬇️
+
+
+<br>
+
+
+<table width="100%">
+
+
+<tr>
+
+
+<td align="center">
+
+
+### 04
+
+## ☁️ Cloud Engineering
+
+
+Deployment
+
+Infrastructure
+
+Cloud Services
+
+
+</td>
+
+
+
+<td align="center">
+
+
+### 05
+
+## 🤖 AI Engineering
+
+
+LLM Applications
+
 Automation
 
-Cloud Systems
-
-Intelligent Software
+Intelligent Systems
 
 
 </td>
@@ -471,73 +816,486 @@ Intelligent Software
 ---
 
 
-# 🧭 Engineering Journey
-
+---
 
 <div align="center">
 
+# 🌱 Currently Learning
+
+</div>
 
 
-Strong Fundamentals
+<table width="100%">
 
-    ↓
 
-Backend Engineering
+<tr>
 
-    ↓
 
-Advanced .NET
+<td width="33%" align="center">
 
-    ↓
 
-Software Architecture
+## 🚀 Backend Engineering
 
-    ↓
+
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+
+
+<br><br>
+
+
+Advanced ASP.NET Core
+
+API Architecture
+
+Authentication
+
+Security
+
+Performance Optimization
+
+
+</td>
+
+
+
+<td width="33%" align="center">
+
+
+## 🏛 Software Architecture
+
+
+<br>
+
+
+Clean Architecture
+
+SOLID Principles
+
+Design Patterns
+
+Domain Driven Design
 
 System Design
 
-    ↓
 
-Cloud & AI Engineering
-
+</td>
 
 
-</div>
+
+<td width="33%" align="center">
 
 
----
+## 🤖 AI Engineering
 
 
-# 🏆 Skills Growth
+<br>
+
+
+AI APIs
+
+LLM Applications
+
+Automation Systems
+
+Intelligent Software
+
+AI Integration
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+<br>
 
 
 <div align="center">
 
 
-| Area | Building |
-|---|---|
-| 🔥 Backend | APIs, Business Logic, Application Structure |
-| 🗄 Database | SQL Server, Modeling, Relationships |
-| 🏛 Architecture | Clean Code, SOLID, Maintainable Systems |
-| 🚀 Engineering | Problem Solving, Design Thinking |
-| 🤖 AI | Modern Intelligent Applications |
+## 🎯 Engineering Direction
+
+
+</div>
+
+
+<table width="100%">
+
+
+<tr>
+
+
+<td align="center">
+    
+Strong Fundamentals
+↓
+Professional Backend Development
+↓
+Software Architecture
+↓
+Scalable Systems
+↓
+AI Powered Applications
+
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+---
+
+
+
+---
+
+<div align="center">
+
+# 🚀 Engineering Vision
+
+</div>
+
+
+<div align="center">
+
+
+## Building Software That Matters
+
+
+<br>
+
+
+I focus on creating software systems that are:
+
+<br>
+
+
+🔹 Reliable  
+🔹 Maintainable  
+🔹 Scalable  
+🔹 Intelligent  
+
+
+<br>
+
+
+My goal is to become a Software Engineer capable of designing and building modern software products.
 
 
 </div>
 
 
 ---
+
+
+<div align="center">
+
+# 📊 Engineering Dashboard
+
+</div>
+
+
+<div align="center">
+
+
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=mohamed-hasan-dev&theme=tokyonight&hide_border=true"
+width="70%"
+/>
+
+
+</div>
+
+
+<br>
+
+
+<table width="100%">
+
+
+<tr>
+
+
+<td align="center" width="33%">
+
+
+## ⚙️ Backend Engineering
+
+
+<br>
+
+
+.NET Ecosystem
+
+<br>
+
+ASP.NET Core
+
+<br>
+
+REST APIs
+
+<br>
+
+Entity Framework Core
+
+
+</td>
+
+
+<td align="center" width="33%">
+
+
+## 🏗 Software Architecture
+
+
+<br>
+
+
+Clean Architecture
+
+<br>
+
+SOLID Principles
+
+<br>
+
+Design Patterns
+
+<br>
+
+System Design
+
+
+</td>
+
+
+<td align="center" width="33%">
+
+
+## 🤖 Future Engineering
+
+
+<br>
+
+
+AI Applications
+
+<br>
+
+Cloud Systems
+
+<br>
+
+Automation
+
+<br>
+
+Intelligent Software
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+---
+
+
+<div align="center">
+
+
+# 🧭 Engineering Journey
+
+
+</div>
+
+
+<table width="100%">
+
+
+<tr>
+
+
+<td align="center">
+
+
+### 01
+
+## 🧱 Foundations
+
+
+Programming
+
+OOP
+
+Data Structures
+
+Algorithms
+
+
+</td>
+
+
+<td align="center">
+
+
+### 02
+
+## ⚙️ Backend
+
+
+C#
+
+.NET
+
+APIs
+
+Databases
+
+
+</td>
+
+
+<td align="center">
+
+
+### 03
+
+## 🏛 Architecture
+
+
+Clean Architecture
+
+Patterns
+
+Scalable Design
+
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td align="center">
+
+
+### 04
+
+## 📐 System Design
+
+
+Distributed Systems
+
+Performance
+
+Reliability
+
+
+</td>
+
+
+<td align="center">
+
+
+### 05
+
+## ☁️ Cloud
+
+
+Deployment
+
+Infrastructure
+
+Production Systems
+
+
+</td>
+
+
+<td align="center">
+
+
+### 06
+
+## 🤖 AI
+
+
+LLM Applications
+
+Automation
+
+Smart Software
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+---
+
+
+<div align="center">
+
+
+# 🏆 Engineering Growth
+
+
+</div>
+
+
+<div align="center">
+
+
+| Domain | Focus |
+|---|---|
+| 🔥 Backend | Building professional .NET systems |
+| 🗄 Database | Designing efficient data solutions |
+| 🏛 Architecture | Creating maintainable software |
+| 🚀 Engineering | Improving problem solving skills |
+| 🤖 AI | Exploring intelligent applications |
+
+
+</div>
+
+
+---
+
+
+<div align="center">
 
 
 # 🤝 Let's Connect
 
 
-<div align="center">
+<br>
 
 
 <a href="https://github.com/mohamed-hasan-dev">
 
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-mohamed--hasan--dev-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
