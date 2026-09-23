@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Mohamed Hassan
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Mohamed%20Hassan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20in%20Progress%20%7C%20Backend%20Developer%20(.NET)&descAlignY=55" width="100%" />
+# Hello, I'm Mohamed Hassan 👋
 
 ## Software Engineer in Progress | Backend Developer (.NET)
 
